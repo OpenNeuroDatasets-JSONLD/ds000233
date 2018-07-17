@@ -1,0 +1,42 @@
+Source data (sourcedata/) and stimuli (stimuli/) may contain sensitive
+or proprietary information and therefore not distributed publicly. Contact
+the authors for more information on stimuli.
+
+Note that in constructing the trial order for one run
+(sub-rid0000*_task-beh_run-1_bold.nii.gz) an unintended collision
+occurred where a behavior repetition event interrupted a taxonomic
+repetition event. This means that one less taxonomic category repetition
+occurred in this run (3 in stead of 4), and the stimulus
+bird_eating_1.mp4 occurred 3 times instead of the intended 2 times
+in this run.
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000233/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000233.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+This dataset is BIDS 1.0.2 Compatible 
+  Summary:                  Available Tasks:        Available Modalities:
+        1518 Files, 8.63GB        tax                     T1w
+        12 - Subjects             beh                     bold
+        1 - Session

@@ -1,3 +1,5 @@
+1.0.0 2019-12-14
+  - New version with dataset DOI
 4.0.0	2018-05-02
 
 	- Shared stimuli, updated *_events.tsv files, updated references
@@ -14,4 +16,3 @@
 1.0.0   2017-07-24
     
     - Initial release.
-

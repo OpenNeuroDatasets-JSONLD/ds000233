@@ -1,5 +1,0 @@
-{
-    "TaskName": "tax",
-    "OriginalFunctionalRunIndex": 9,
-    "TaskDescription": "Participants performed a 1-back task for either taxonomic ('tax') or behavioral ('beh') categories. In half of the runs they were instructed to only press the button when they noticed a taxonomic category repetition, and in the other they half of the runs they were instructed to only press the button when they noticed a behavioral category repetition. Participants pressed the same button for both tasks, and did not press any button for non-repetitions. Repetition events were sparsed (4 per run), and articipants were instructed to ignore repetitions of the opposite category type. In this functional run, participants monitored for 'tax' repetitions."
-}
